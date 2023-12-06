@@ -10,5 +10,5 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 
 [![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/JoshDS595/Portfolio_Final)
 
-This is the [live demo](https://brad-portfolio.netlify.app/) of the project . 
+This is the [live demo](https://Portfolio_Final.netlify.app/) of the project . 
 
