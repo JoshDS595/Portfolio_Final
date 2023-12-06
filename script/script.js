@@ -1,4 +1,12 @@
 // add class navbarDark on navbar scroll
+class YearElement extends HTMLElement {
+    connectedCallback(){
+        this.innerHTML=new Date().getFullYear();
+
+    }
+}
+customElements.define("x-fullyear", YearElement);
+
 const header = document.querySelector('.navbar');
 console.log(header)
 window.onscroll = function() {
