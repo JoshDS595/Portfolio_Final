@@ -1,6 +1,6 @@
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: black;
+    background-color: teal;
 }
 
 /* hero background image */
@@ -53,10 +53,10 @@
     text-align: center;
 }
 .card:hover .servicesIcon {
-    color: #008000;
+    color: teal;
 }
 .servicesText:hover {
-    border: 1px solid #008000;
+    border: 1px solid teal;
 }
 
 /* social media icons styling */
